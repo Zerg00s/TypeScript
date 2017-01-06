@@ -1,6 +1,5 @@
 class bulding{
     constructor (number:number){
-
     }
     
     private _number : string;
@@ -14,5 +13,4 @@ class bulding{
     output = function(){
         console.log(this.number);
     }
-     
 } 
